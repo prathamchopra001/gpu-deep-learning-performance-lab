@@ -1,0 +1,3 @@
+precision,batch_size,steps,throughput,peak_memory_mb,total_time_sec
+fp32,64,20,166.4,5672.04,7.69
+amp,64,20,240.56,3159.98,5.32

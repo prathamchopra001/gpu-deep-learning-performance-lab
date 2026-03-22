@@ -1,0 +1,3 @@
+kernel,matrixx_size,time_ms,output_check
+native,1024,2.83341,1024
+tiled,1024,2.08054,1024

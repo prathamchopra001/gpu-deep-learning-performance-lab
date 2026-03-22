@@ -1,0 +1,5 @@
+model,batch_size,precision,throughput
+bert-base-uncased,16,fp32,78.92
+bert-base-uncased,32,fp32,93.17
+bert-base-uncased,64,fp32,105.38
+bert-base-uncased,128,fp32,9.73
